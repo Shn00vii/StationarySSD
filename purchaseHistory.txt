@@ -1,0 +1,50 @@
+Mon Jan 10 21:50:09 BDT 2022
+&
+Rifat---01781034240
+&
+Pen-25.0x3->75.0
+&
+Pencil-40.0x1->40.0
+&
+Scale-15.0x1->15.0
+&
+Eraser-70.0x1->70.0
+&
+VAT=3.0
+&
+DISCOUNT=20.0
+&
+Total Cost : 166.0
+@
+Tue Jan 11 03:36:26 BDT 2022
+&
+ftdydydy---20191403131
+&
+Eraser-70.0x2->140.0
+&
+VAT=1.0
+&
+DISCOUNT=20.0
+&
+Total Cost : 113.4
+@
+Fri Jan 14 17:46:59 BDT 2022
+&
+asif---01111111111
+&
+Pen-25.0x5->125.0
+&
+Pencil-40.0x4->160.0
+&
+Notebook-50.5x3->151.5
+&
+Eraser-70.0x3->210.0
+&
+Game-15.0x2->30.0
+&
+VAT=1.0
+&
+DISCOUNT=20.0
+&
+Total Cost : 547.965
+@
